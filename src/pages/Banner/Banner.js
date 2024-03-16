@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <div>
             <div className="hero min-h-screen ">
-                <div className="hero-content flex-col lg:flex-row-reverse gap-8">
+                <div className="hero-content flex-col lg:flex-row-reverse ">
                     <img src={chair} className="max-w-sm lg:max-w-xl rounded-lg shadow-2xl" />
                     <div className=''>
                         <h1 className="text-5xl font-bold">Your New Smile Starts Here!</h1>
